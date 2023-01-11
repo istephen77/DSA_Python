@@ -422,7 +422,7 @@
 
 # The best method to implement the Priority Queue is by using the binary heap. In the priority queue class, the entries are sorted by using the heap queue module.
 # It will use the binary data structure and the lowest entry value will be retrieved first
-
+# Priority Queue class will take the lowest value as highest priority and it will remove it first.
 
 
 
